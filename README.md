@@ -1,7 +1,7 @@
 # TSSOP20_breakout
 A generic breakout board for TSSOP20 chips to a SIP header meant for breadboard use
 
-# Features
+## Features
 - USB-C connection for power and/or data (proper dual 5.1K CC termination resistors)
 - SO-23-5 regulator with optional stabilization capacitor
 - four pin debug header with power, ground, and two additonal signals
