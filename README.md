@@ -11,7 +11,7 @@ A generic breakout board for TSSOP20 chips to a SIP header meant for breadboard 
 - optional component pad--useful for low speed USB for chips which lack a PHY and need a 1.5K pullup to signal bus presance
 - 20x0.1" SIP header for mounting off the edge of a breadboard.  This allows the bulk of the breadboard to be use for interconnects and prototyping.
   
-<img src="./images/TSSOP20_V2_front.png" alt="TSSOP20_V2_front" width="550">
-<img src="./images/TSSOP20_V2_back.png" alt="TSSOP20_V2_back" width="550">
-<img src="./images/TSSOP20_V2_front_render.jpg" alt="TSSOP20_V2_front_render" width="550">
-<img src="./images/TSSOP20_V2_back_render.jpg" alt="TSSOP20_V2_back_render" width="550">
+<img src="./images/TSSOP20_V2_front.png" alt="TSSOP20_V2_front" width="800">
+<img src="./images/TSSOP20_V2_back.png" alt="TSSOP20_V2_back" width="800">
+<img src="./images/TSSOP20_V2_front_render.jpg" alt="TSSOP20_V2_front_render" width="800">
+<img src="./images/TSSOP20_V2_back_render.jpg" alt="TSSOP20_V2_back_render" width="800">
