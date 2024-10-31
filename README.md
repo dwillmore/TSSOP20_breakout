@@ -29,7 +29,7 @@ This is more of a guidance than a specific BOM as it will vary with the features
 
 ## USB-C parts
 - J4 -- USB-C USB2.0 receptacle Example: LCSC C2988369 Mfr. Part#: GT-USB-7010ASV
-- R1, R2 -- USB CC1/2 termination resistors 4.7 KOhm Example: LCSC
+- R1, R2 -- USB CC1/2 termination resistors 5.1 KOhm Example: LCSC
 - R3, R4 -- USB serial termination resistors 22 Ohm Example LCSC C3016215 Mfr. Part #: SCR0603F22R
 - R6 -- USB speed signaling resistor 1.5 KOhm 0603 generic resistor (see other R part numbers)
 
